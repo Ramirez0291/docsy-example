@@ -1,6 +1,7 @@
 ---
-title: "Unionpayintl API Market"
-linkTitle: "API Marker"
+title: "UnionPay International
+Technology Partner Program"
+linkTitle: "Partner"
 menu:
   main:
     weight: 30
